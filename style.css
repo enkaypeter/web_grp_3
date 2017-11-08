@@ -530,9 +530,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Footer */
 #footer {
-	background: #0E436E;
+	background: #8B1C0F;
 	padding: 8px 0 10px 0;
-	color: #eee;
+	color: #DB2525;
 	font-size: 0.9em;
 	text-align: center;
 		position: absolute;

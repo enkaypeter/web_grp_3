@@ -3,8 +3,6 @@
         // require("includes/functions.php");
         // $connect = connect();        
         $connect = mysqli_connect("localhost","root","Cecilia2002#","PayOnline");
-        // $disco = $_POST['disco'];
-        // $billtype = $_POST['billtype'];
         $acc_type = $_POST['acc_type'];
         $account_number = $_POST['account_number'];
         $payer_name = $_POST['payer_name'];

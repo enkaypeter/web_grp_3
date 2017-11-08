@@ -57,9 +57,9 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
        <div class="collapse navbar-collapse bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="about.php" class="page-scroll"><i class="fa fa-info-circle" aria-hidden="true"></i>About Us</a>
+                <li><a href="about.php" class="page-scroll"><i class="fa fa-info" aria-hidden="true"></i>About Us</a>
                 </li>
-                <li><a href="contact.php" class="page-scroll"><i class="fa fa-phone" aria-hidden="true"></i>Contact</a>
+                <!-- <li><a href="contact.php" class="page-scroll"><i class="fa fa-phone" aria-hidden="true"></i>Contact</a> -->
                 </li>
             </ul>
         </div>
@@ -72,8 +72,8 @@
  
 <header class="text-center container-fluid" name="home">
             <div class="intro-text">
-                <h1 class=" fadeInDown">Pay Your <strong><span class="color">Electricity Bills</span></strong></h1>
-                <p class=" fadeInDown">Simple bill payment from the comfort of your own home</p>
+                <h1 class=" fadeInDown">Electricity Bills <strong><span class="primary">Payment</span></strong></h1>
+                <p class=" fadeInDown">Simple bill payment made by Group Three(3)</p>
                 <div class="banner"><img width="700" src="img/home-banner.png"/></div>
                 <div class="row">
                     <a href="index.php" class="btn btn-default">Click To Begin</a>

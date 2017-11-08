@@ -15,9 +15,7 @@
     <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
 
     <!-- Bootstrap -->
-
     <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 
     <!-- Slider
@@ -69,11 +67,11 @@
                 <div class="section-title  fadeInDown">
                     <h2>How<strong> Does It Work?</strong></h2>
                     <hr>
-                    <p>Topping up your meter is simple, quick and easy. Just follow the steps below: </p>
+                    <p>Topping up your meter is simple, quick and easy. click any image below to begin payment </p>
                 </div>
 				
 		
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-md-4 col-sm-6 step  fadeInUp" data--delay="200ms">
                                                                                            
                         <h4><strong>Select what company</strong></h4>
@@ -92,7 +90,7 @@
                         <p>Once your account details have been verified, you will be taken to a secure page to enter
                             your card information. Your meter token will be sent after successful payment.</p>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
 		<div class="container">
@@ -149,7 +147,7 @@
                     <h2>Select what Company To Start</h2>
                     <hr>
                     <div class="clearfix"></div>
-                    <p>The following distribution companies are available to make payment.</p>
+                    
                 </div>
 
 
@@ -181,7 +179,6 @@
     </div>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.js"></script>
 
